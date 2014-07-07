@@ -1,0 +1,14 @@
+{
+  "name": "sourcemap-concat",
+  "description": "Concat files and generate a concatened sourcemap",
+  "keywords": [
+    "sourcemap", "concat"
+  ],
+  "version": "1.0.2",
+  "license": "MIT",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "repository": "git@github.com:christophehurpeau/sourcemap-concat.git",
+  "dependencies": {
+    "source-map": "^0.1.34"
+  }
+}
