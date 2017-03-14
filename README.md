@@ -1,5 +1,7 @@
 ## Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/sourcemap-concat.svg)](https://greenkeeper.io/)
+
 ```js
 var sourceMapConcatenator = new SourceMapConcatenator({ file: fileName });
 
